@@ -27,9 +27,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://liunicholas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: bickolas.liu
 github_username:  liunicholas
+facebook_username: bickolasliu
 
 # Build settings
-theme: minima
+#removed minima theme, now a regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 
