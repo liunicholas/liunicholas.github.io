@@ -3,7 +3,11 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+<img src="/images/portrait.png" alt="the picture of myself that I use for everything">
 
 ### In my freshmen year of high school, my computer science teacher told my friend and I that comments would be optional for the final project. We only had 2 weeks to essentially create a fully functioning browser arcade.
 
-[me rapping minecraft parody]: https://www.youtube.com/watch?v=xp58u_Tlv38
+
+**craziest thing I've done:** [rapping a minecraft parody in front of over 300 people in an auditorium at UCSD](https://www.youtube.com/watch?v=xp58u_Tlv38)
+<br>
+**hobbies:** 3D CAD design and printing, desk organization, watching and reading F1 technical analysis (favorite driver is Kimi <3)
