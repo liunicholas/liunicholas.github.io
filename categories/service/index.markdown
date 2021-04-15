@@ -5,4 +5,5 @@
 layout: home-service
 title: "Service"
 category: Service
+order: 5
 ---

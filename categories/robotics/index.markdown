@@ -5,4 +5,5 @@
 layout: home-robotics
 title: "Robotics"
 category: Robotics
+order: 6
 ---

@@ -5,4 +5,5 @@
 layout: home-random
 title: "Random"
 category: Random
+order: 7
 ---

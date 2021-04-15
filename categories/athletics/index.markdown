@@ -5,4 +5,5 @@
 layout: home-athletics
 title: "Athletics"
 category: Athletics
+order: 2
 ---
