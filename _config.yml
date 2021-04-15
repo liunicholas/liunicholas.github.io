@@ -20,10 +20,11 @@
 
 title: Comments Not Required
 title-logo: /images/title-logo.png
+title-logo2: /images/title-logo2.png
 
 email: nicholasliu2015@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Thank you for taking a look at my site! This is still very much a work in
+  Thank you for visiting my site! This is still very much a work in
   progress, but I hope you enjoy learning random things about me :)
 
 baseurl: "" # the subpath of your site, e.g. /blog
