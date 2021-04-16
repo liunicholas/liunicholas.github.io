@@ -1,10 +1,3 @@
----
-layout: page
-title: About Me
-permalink: /about/
-order: 1
-spec_title: About Me And Why I Started This Website
----
 <img src="/images/portrait.png" alt="the picture of myself that I use for everything">
 ### Hi! I'm Nicholas Liu, an athletic/nerdy Asian from San Diego.
 <br>

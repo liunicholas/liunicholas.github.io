@@ -4,4 +4,5 @@
 
 layout: home
 list_title: Featured Posts
+web_title: Nicholas Liu | Comments Not Required
 ---
