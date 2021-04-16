@@ -15,5 +15,14 @@
 
 **craziest thing I've done:** [rapping a minecraft parody in front of over 300 people](https://www.youtube.com/watch?v=xp58u_Tlv38)
 <br>
-**hobbies:** 3D CAD design and printing, desk organization, watching and reading F1 technical analysis
+**hobbies:** 3D CAD design and printing, desk organization, watching and reading F1 + technical analysis
 <br>
+**favorite musical genres:** pop, indie, rock, r&b [my spotify](https://open.spotify.com/user/r7jfuobp4es6h2ils9fequm22?si=e64eb06e18244a71)
+<br>
+**favorite movie:** La La Land
+<br>
+**favorite shows:** Parks & Rec, The Office, Criminal Minds
+<br>
+**favorite color:** purple
+<br>
+**favorite color scheme:** black and white with either orange or maroon
