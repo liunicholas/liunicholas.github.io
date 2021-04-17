@@ -6,4 +6,5 @@ layout: home-random
 title: "Random"
 category: Random
 order: 7
+list_title: " "
 ---

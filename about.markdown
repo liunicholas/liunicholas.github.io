@@ -6,7 +6,7 @@ order: 1
 spec_title: About Me And Why I Started This Website
 ---
 <img src="/images/portrait.png" alt="the picture of myself that I use for everything">
-### Hi! I'm Nicholas Liu, an athletic/nerdy Asian from San Diego.
+### Hi! I'm Nicholas Liu, your nerdy athletic Asian from San Diego.
 <br>
 ### In my freshmen year of high school, I only had 2 weeks to essentially create a fully functioning browser arcade[^1] for the final project of the comp sci class. Fortunately, the teacher told my friend and I that comments would be optional so that we could finish in time. Unfortunately, when I went back to look at my code, I understand practically none of it.
 <br>

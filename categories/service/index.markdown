@@ -6,4 +6,5 @@ layout: home-service
 title: "Service"
 category: Service
 order: 5
+list_title: "Notable Service Work"
 ---

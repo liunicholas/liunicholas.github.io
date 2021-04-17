@@ -6,4 +6,5 @@ layout: home-computerScience
 title: "Computer Science"
 category: Computer Science
 order: 3
+list_title: "Projects"
 ---

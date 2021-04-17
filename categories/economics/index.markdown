@@ -6,4 +6,5 @@ layout: home-economics
 title: "Economics"
 category: Economics
 order: 4
+list_title: "Competitions"
 ---
