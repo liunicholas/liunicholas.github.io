@@ -5,7 +5,7 @@
 <br>
 ### In order to avoid such a mishap with my own life memories, I decided to document as much of the relevant parts of my life as possible on this website. During this pandemic, I've frequently had existential crises on what I've ever done in life. This should help me remember.
 <br>
-### Additionally, for anyone looking to learn about me as a person, to read about my crazy comp sci projects, or to see me rap a minecraft song, I urge them to explore my site :)
+### For anyone looking to learn about me as a person, to read about my crazy comp sci projects, or to see me rap a minecraft song, I suggest them to explore my site :)
 <br>
 
 <!-- [^1]: [Game Arcade](https://www.example.com)
