@@ -6,7 +6,7 @@ layout: home-robotics
 title: "Robotics"
 category: Robotics
 order: 6
-list_title: "Competitions"
+list_title: " "
 ---
 
 <div class="w3-container">

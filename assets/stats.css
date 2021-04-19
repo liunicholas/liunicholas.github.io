@@ -1,13 +1,29 @@
-/* create full cards, 2/3, and 1/3 */
-
 .statsIcon {
   height: 75px;
+}
+.liftIcon {
+  width: 85px;
 }
 .firstIcon {
   height: 30px;
 }
 .paddingTop {
   padding-top:16px!important;
+}
+.csLogo {
+  width:20%;
+}
+.longCardIcon {
+  height: 50px;
+}
+.shadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.hovershadow:hover {
+box-shadow: 0 0 6px rgba(6,69,173, 1);
+}
+.noBorder {
+    border:none !important;
 }
 
 /* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
