@@ -1,0 +1,222 @@
+.xkcd-embed {
+	display: inline-block;
+	border: 1px solid gray;
+	padding:5px;
+	margin: 5px;
+	/*background-color: rgba(100,120,0,0.2);*/
+  background-color: #E0E4CC;
+}
+.xkcd-embed-top {
+	display: block;
+}
+.xkcd-embed-bottom {
+	display: block;
+  /*background-color: rgba(120,100,0,0.2);*/
+  background-color: #E0E4CC;
+	margin-top:5px;
+	text-align: center;
+}
+.xkcd-embed-bt {
+	display: inline-block;
+	font-family: monospace;
+	background-color: transparent;
+	border:0px solid red;
+	color: #2d2d2d;
+	cursor: pointer;
+	font-size: 12px;
+	font-weight: bold;
+	margin:0px;
+}
+.xkcd-embed-bt:hover {
+	background-color: #2d2d2d;
+	color: yellow;
+}
+a.xkcd-embed-title {
+	display: inline-block;
+	float: left;
+	font-weight: bold;
+	font-family: monospace;
+	font-size: 14px;
+	padding-bottom:5px;
+	text-decoration: none;
+	color: #222;
+}
+.xkcd-embed-number {
+	float: right;
+	font-family: monospace;
+	font-style: italic;
+}
+.xkcd-embed-number::before {
+	content: '#';
+}
+.xkcd-embed-alt {
+	display:inline-block;
+	font-family: monospace;
+	background-color: rgba(0,0,0,0.8);
+	color: white;
+	padding: 5px;
+	width: 100px;
+}
+.xkcd-embed-btFavorite,  .xkcd-embed-btListFavorites{
+	float: right;
+	background-color: orange;
+}
+.xkcd-embed-overlay {
+	position: fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	background-color: rgba(0,0,0, 0.9);
+	display: none;
+	-webkit-filter: blur(5px);
+}
+.xkcd-embed-favoritesWindow {
+	position: fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	/*background-color: rgba(250,100,0, 0.95);*/
+	background-color: rgba(100,100,150, 0.95);
+	/*background-color: rgba(0, 0, 0, 0.95);*/
+	text-align: center;
+	display: none;
+	overflow: auto;
+}
+.xkcd-embed-favoritesWindow h1 {
+  color: #fff;
+  text-align: center;
+  margin-top: 2em;
+}
+.xkcd-embed-userDivWrapper {
+	min-height:10px;
+	overflow: auto;
+}
+.xkcd-embed-userDiv {
+	display: block;
+	max-width: 606px;
+	margin: 0 auto;
+	padding: 0px;
+	padding-top: 5px;
+	overflow: auto;
+}
+.xkcd-embed-userDiv form {
+  display: block;
+  border: 0px solid red;
+  margin: 0px;
+  padding: 0px;
+  overflow: auto;
+}
+.xkcd-embed-userDiv a.toggle {
+  float: right;
+  margin: 0px;
+  margin-left: 1em;
+  color: #fff;
+  padding: 3px;
+  font-size: x-small;
+  user-select: none;
+}
+.xkcd-embed-userDiv > div {
+	display: block;
+	float: left;
+}
+.xkcd-embed-link {
+	font-weight: bold;
+	/*color: #2d2d2d;*/
+  color: #fff;
+	font-size: 10px;
+	cursor: pointer;
+}
+.xkcd-embed-userDiv-input {
+	display: block;
+	margin: 0px;
+	margin-right:2px;
+	float: left;
+	border: 0px solid red;
+	outline: none;
+	border-radius: 0px;
+	background-color: rgba(255,255,255,0.8);
+	color: #111;
+	padding: 3px;
+	font-size: 10px;
+}
+.xkcd-embed-userDiv-btn {
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	padding:3px;
+	font-size: 10px;
+	border: 0px solid red;
+	background-color: rgba(250,150,0, 0.9);
+	color: #2d2d2d;
+	font-weight: bold;
+	transition-duration:1s;
+	transition-timing-function:cubic-bezier(0.06, 1.47, 0.29, 0.87);
+	transition-property: background;
+	cursor: pointer;
+}
+.xkcd-embed-userDiv-btn:hover {
+
+	background-color: #2d2d2d;
+	color: white;
+}
+.xkcd-embed-favoritesWindow-favoritesWrapper {
+	margin: 0 auto;
+}
+.xkcd-embed-favoriteElement {
+	display: block;
+	max-width:600px;
+	background-color: rgba(255, 255, 255, 0.5);
+	padding:5px;
+	padding-left: 0px;
+	margin:5px auto;
+	cursor: pointer;
+	font-weight: bold;
+	text-align: left;
+	transition-duration:2s;
+	transition-timing-function:cubic-bezier(0.06, 1.47, 0.29, 0.87);
+	transition-property: background;
+}
+.xkcd-embed-favoriteElement:hover {
+	background-color: rgba(0,0,0,0.9);
+	color: white;
+}
+.xkcd-embed-favoriteElement-bt {
+	padding:5px;
+	background-color: rgba(0,0,0,0.3);
+	margin-right:5px;
+}
+.xkcd-embed-favoriteElement-bt:hover {
+	background-color: rgba(255, 0, 0, 0.7);
+}
+.xkcd-embed-favoritesWindow-inputWrapper {
+	display: block;
+	max-width:600px;
+	background-color: rgba(255, 255, 255, 0.5);
+	padding:5px;
+	padding-left: 0px;
+	margin:5px auto;
+	cursor: pointer;
+	font-weight: bold;
+	text-align: left;
+}
+.xkcd-embed-favoritesWindow-input {
+	display: block;
+	width: 100%;
+	/*background-color: rgba(255, 255, 255, 0.7);*/
+	background: transparent;
+	padding:0px;
+	padding-left:5px;
+	margin:0px;
+	cursor: pointer;
+	font-weight: bold;
+	text-align: left;
+	border: 0px solid red;
+	outline: none;
+	font-size:17px;
+}
+.xkcd-embed-comic img {
+  max-width: 100%;
+  max-height: 100%;
+}

@@ -8,7 +8,7 @@ category: Random
 order: 7
 list_title: " "
 ---
-<link rel='stylesheet' href='http://xkcd-embedder.fahmidur.us/css/xkcd-embedder.css'/>
+<link rel='stylesheet' href='/assets/xkcd-embed/xkcd-embedder.css'/>
 <div class='xkcd-embed shadow' data-id='random' style="height=200px;"></div>
 <h5>just a random xkcd embed <a href="https://github.com/fahmidur/xkcd-embedder"> by fahmidur</a> on GitHub</h5>
-<script src='http://xkcd-embedder.fahmidur.us/js/xkcd-embedder.js'></script>
+<script src='/assets/xkcd-embed/xkcd-embedder.js'></script>
