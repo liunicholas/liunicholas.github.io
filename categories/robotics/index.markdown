@@ -8,7 +8,6 @@ category: Robotics
 order: 6
 list_title: " "
 ---
-
 <div class="w3-container">
     <!-- <h3>FIRST Robotics</h3> -->
     <!-- <img src="/categories/robotics/assets/images/first.png"> -->
@@ -21,7 +20,7 @@ list_title: " "
       <li class="w3-padding-16">
         <img src="/categories/robotics/assets/images/ftc.png" class="w3-left w3-margin-right firstIcon">
         <span class="w3-xlarge w3-right">5 years</span><br><br>
-        Mechannical and Outreach Lead, 5 years San Diego Regionals, 2 years FTC World Championships
+        The Clueless #11212 Founding Member, Mechannical and Outreach Lead, 5 years San Diego Regionals, 2 years FTC World Championships
       </li>
       <!-- <li class="w3-padding-16">
         <img src="/w3images/avatar6.png" class="w3-left w3-circle w3-margin-right" style="width:35px">

@@ -25,6 +25,53 @@ box-shadow: 0 0 6px rgba(6,69,173, 1);
 .noBorder {
     border:none !important;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.oimage {
+  width: 100%;
+  /* height: 220px; */
+}
+.ocontainer {
+  position: relative;
+  width: 20%;
+}
+.ooverlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #000000;
+}
+.ocontainer:hover .ooverlay {
+  opacity: 0.5;
+}
+.otext {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+/* .noDecorationLink:link, .noDecorationLink:hover, .noDecorationLink:visited, {
+  color: white !important;
+  text-decoration: none !important;
+} */
+.noDecorationLink {
+  color: white !important;
+  text-decoration: none !important;
+}
 
 /* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
 /* html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit} */

@@ -49,7 +49,7 @@ list_title: "Highlights"
   </div>
 </div>
 
-<h2>Tennis Overview</h2>
+<h2>Tennis</h2>
 <table class="w3-table w3-striped w3-white shadow noBorder">
   <tr class="noBorder">
     <td class="noBorder"><img class="firstIcon" src="/categories/athletics/assets/images/bishopsLogo.png"></td>

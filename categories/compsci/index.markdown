@@ -15,3 +15,4 @@ list_title: "Projects"
 <img class="csLogo" src="/categories/compsci/assets/images/scipyLogo.png" alt="scipy">
 <img class="csLogo" src="/categories/compsci/assets/images/sklearnLogo.png" alt="sklearn">
 <img class="csLogo" src="/categories/compsci/assets/images/tfLogo.png" alt="tf">
+<img class="csLogo" src="/categories/compsci/assets/images/cvLogo.png" alt="cv">
