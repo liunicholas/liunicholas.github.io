@@ -8,7 +8,7 @@ category: Economics
 order: 4
 list_title: "Competitions"
 ---
-<div class="ocontainer w3-quarter">
+<div class="ocontainer w3-quarter shadow">
   <img src="/categories/economics/assets/images/pigou.jpeg" class="oimage">
   <div class="ooverlay">
     <div class="otext">
@@ -16,7 +16,7 @@ list_title: "Competitions"
     </div>
   </div>
 </div>
-<div class="ocontainer w3-quarter">
+<div class="ocontainer w3-quarter shadow">
   <img src="/categories/economics/assets/images/krugman.jpeg" class="oimage">
   <div class="ooverlay">
     <div class="otext">
@@ -24,7 +24,7 @@ list_title: "Competitions"
     </div>
   </div>
 </div>
-<div class="ocontainer w3-quarter">
+<div class="ocontainer w3-quarter shadow">
   <img src="/categories/economics/assets/images/nash.jpeg" class="oimage">
   <div class="ooverlay">
     <div class="otext">
@@ -32,7 +32,7 @@ list_title: "Competitions"
     </div>
   </div>
 </div>
-<div class="ocontainer w3-quarter">
+<div class="ocontainer w3-quarter shadow">
   <img src="/categories/economics/assets/images/ostrom.jpeg" class="oimage">
   <div class="ooverlay">
     <div class="otext">
