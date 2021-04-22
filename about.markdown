@@ -8,7 +8,7 @@ spec_title: About Me And Why I Started This Website
 <img src="/images/portrait.png" alt="the picture of myself that I use for everything" width="75%" class="center">
 ### Hi! I'm Nicholas Liu—
 <br>
-### In my freshmen year of high school, I only had 2 weeks to create a fully functioning browser-style arcade for the final project of the comp sci class. Fortunately, the teacher told my friend and I that comments would be optional so that we could finish in time. Unfortunately, a year later when I looked back at my code, I understand practically none of it.
+### In my freshman year of high school, I only had 2 weeks to create a fully functioning browser-style arcade for the final project of the comp sci class. Fortunately, the teacher told my friend and I that comments would be optional so that we could finish in time. Unfortunately, a year later when I looked back at my code, I understand practically none of it.
 <br>
 <!-- ### In order to avoid such a mishap with my own life memories, I decided to document as much of the relevant parts of my life as possible on this website. During this pandemic, I've frequently had existential crises on what I've ever done in life. This should help me remember. -->
 ### In a couple years when I look back on my high school years, I don't want to have forgotten everything; this website is my way of documenting my life. But for anyone else looking to learn about me as a person, to read about my crazy comp sci projects, or to see me rap a minecraft song, I welcome them to click around :)
