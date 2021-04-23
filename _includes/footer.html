@@ -3,14 +3,15 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
+        <h2 class="footer-heading" style="color: black;">{{ site.title | escape }}</h2>
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
-              made by {{ site.author | escape }}
+              Created By {{ site.author | escape }}
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}

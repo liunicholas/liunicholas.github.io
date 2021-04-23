@@ -15,7 +15,7 @@ list_title: " "
       <li class="w3-padding-16">
         <img src="/categories/robotics/assets/images/fll.png" class="w3-left w3-margin-right firstIcon">
         <span class="w3-xlarge w3-right">2 years</span><br><br>
-        Captain, North American Championship Second Place, 6 years mentoring
+        Captain, North American Championship Second Place, 5 years mentoring
       </li>
       <li class="w3-padding-16">
         <img src="/categories/robotics/assets/images/ftc.png" class="w3-left w3-margin-right firstIcon">

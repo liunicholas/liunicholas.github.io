@@ -10,7 +10,7 @@ list_title: "Highlights"
 ---
 
 <h2>Lifting</h2>
-<div class="w3-row-padding w3-margin-bottom">
+<div class="w3-row-padding w3-margin-bottom center">
   <div class="w3-third">
     <div class="w3-container w3-blue paddingTop shadow">
       <div class="w3-left">
@@ -50,7 +50,7 @@ list_title: "Highlights"
 </div>
 
 <h2>Tennis</h2>
-<table class="w3-table w3-striped w3-white shadow noBorder">
+<table class="w3-table w3-striped w3-white shadow noBorder center" style="width:95%;">
   <tr class="noBorder">
     <td class="noBorder"><img class="firstIcon" src="/categories/athletics/assets/images/bishopsLogo.png"></td>
     <td class="noBorder"> 3 Years Varsity Tennis At The Bishop's School (4 Years Planned)</td>

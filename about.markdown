@@ -29,7 +29,7 @@ spec_title: About Me And Why I Started This Website
 <br>
 **Favorite Color Scheme:** Black and white with either orange or maroon
 <br>
-**Most Unique Thing I've Done:** [Rapping a minecraft parody in front of over 300 people]({{ "categories/random/2021/04/14/Rapping-Minecraft-Parody.html" | relative_url }})
+**Most Unique Thing I've Done:** [Rapping a minecraft parody in front of over 300 people]({{ "/categories/random/Rapping-Minecraft-Parody/" | relative_url }})
 <br>
 **Favorite Musical Genres:** Pop, Indie, Rock, R&B
 <!-- <a href="https://open.spotify.com/user/r7jfuobp4es6h2ils9fequm22?si=e64eb06e18244a71">link to my spotify</a> -->
