@@ -13,7 +13,7 @@ list_title: " "
       <li class="">
         <img src="/categories/service/assets/images/timeImage.png" class="w3-left w3-margin-right longCardIcon">
         <span class="w3-xlarge w3-right">609 Service Hours</span><br><br>
-        <p style="text-align:right;">414 Hours During The Covid-19 Pandemic</p>
+        <p style="text-align:right;">414 Hours During the COVID-19 Pandemic</p>
         <!-- 414 Hours During The Covid-19 Pandemic -->
       </li>
       <li class="">
@@ -21,7 +21,7 @@ list_title: " "
         <span class="w3-xlarge w3-right">Personal Impact On +500 People
         <!-- With Focus On Spreading STEM In The San Diego Community -->
         </span><br><br>
-        <p style="text-align:right;">With Focus On Spreading STEM In The San Diego Community</p>
+        <p style="text-align:right;">With Focus on Spreading Stem In the San Diego Community</p>
       </li>
     </ul>
   </div>

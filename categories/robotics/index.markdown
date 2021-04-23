@@ -15,12 +15,12 @@ list_title: " "
       <li class="w3-padding-16">
         <img src="/categories/robotics/assets/images/fll.png" class="w3-left w3-margin-right firstIcon">
         <span class="w3-xlarge w3-right">2 years</span><br><br>
-        Captain, North American Championship Second Place, 5 years mentoring
+        Captain, North American Championship Second Place, 5 Years Mentoring
       </li>
       <li class="w3-padding-16">
         <img src="/categories/robotics/assets/images/ftc.png" class="w3-left w3-margin-right firstIcon">
         <span class="w3-xlarge w3-right">5 years</span><br><br>
-        The Clueless #11212 Founding Member, Mechannical and Outreach Lead, 5 years San Diego Regionals, 2 years FTC World Championships
+        The Clueless #11212 Founding Member, Mechannical and Outreach Lead, 5 Years San Diego Regionals, 2 Years FTC World Championships
       </li>
       <!-- <li class="w3-padding-16">
         <img src="/w3images/avatar6.png" class="w3-left w3-circle w3-margin-right" style="width:35px">

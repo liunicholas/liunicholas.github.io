@@ -53,7 +53,7 @@ list_title: "Highlights"
 <table class="w3-table w3-striped w3-white shadow noBorder center" style="width:95%;">
   <tr class="noBorder">
     <td class="noBorder"><img class="firstIcon" src="/categories/athletics/assets/images/bishopsLogo.png"></td>
-    <td class="noBorder"> 3 Years Varsity Tennis At The Bishop's School (4 Years Planned)</td>
+    <td class="noBorder"> 3 Years Varsity Tennis at The Bishop's School (4 Years Planned)</td>
   </tr>
   <tr class="noBorder">
     <td class="noBorder"><img class="firstIcon" src="/categories/athletics/assets/images/trnLogo.png"></td>
