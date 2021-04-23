@@ -16,7 +16,7 @@ list_title: "Highlights"
       <div class="w3-left">
       <img class="liftIcon" src="/categories/athletics/assets/images/squat.png" alt="squat png"></div>
       <div class="w3-right">
-        <h1>245 <br> Squat</h1>
+        <h1> 245 <br> Squat</h1>
         <!-- <h1>Squat</h1> -->
       </div>
       <div class="w3-clear"></div>
@@ -28,7 +28,7 @@ list_title: "Highlights"
       <div class="w3-left">
       <img class="liftIcon" src="/categories/athletics/assets/images/clean.png" alt="clean png"></div>
       <div class="w3-right">
-        <h1>155 <br> Clean</h1>
+        <h1> 155 <br> Clean </h1>
         <!-- <h2>Clean</h2> -->
       </div>
       <div class="w3-clear"></div>
@@ -40,7 +40,7 @@ list_title: "Highlights"
       <div class="w3-left">
       <img class="liftIcon" src="/categories/athletics/assets/images/bench.png" alt="bench png"></div>
       <div class="w3-right">
-        <h1>175 <br> Bench</h1>
+        <h1> 175 <br> Bench</h1>
         <!-- <h2>Bench</h2> -->
       </div>
       <div class="w3-clear"></div>
@@ -53,14 +53,14 @@ list_title: "Highlights"
 <table class="w3-table w3-striped w3-white shadow noBorder">
   <tr class="noBorder">
     <td class="noBorder"><img class="firstIcon" src="/categories/athletics/assets/images/bishopsLogo.png"></td>
-    <td class="noBorder">3 Years Varsity Tennis At The Bishop's School (4 Years Planned)</td>
+    <td class="noBorder"> 3 Years Varsity Tennis At The Bishop's School (4 Years Planned)</td>
   </tr>
   <tr class="noBorder">
     <td class="noBorder"><img class="firstIcon" src="/categories/athletics/assets/images/trnLogo.png"></td>
-    <td class="noBorder">159 High National Tennis Recruiting</td>
+    <td class="noBorder"> 159 High National Tennis Recruiting</td>
   </tr>
   <tr class="noBorder">
     <td class="noBorder"><img class="firstIcon" src="/categories/athletics/assets/images/utrLogo.png"></td>
-    <td class="noBorder">10.33 High UTR</td>
+    <td class="noBorder"> 10.33 High UTR</td>
   </tr>
 </table>
