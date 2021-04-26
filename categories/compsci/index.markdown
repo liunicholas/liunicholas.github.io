@@ -6,7 +6,7 @@ layout: home-computerScience
 title: "Computer Science"
 category: Computer Science
 order: 3
-list_title: "Projects"
+list_title: "Projects and More"
 ---
 <a href="https://matplotlib.org"><img class="csLogo" src="/categories/compsci/assets/images/mplLogo.png" alt="mpl"></a>
 <a href="https://numpy.org"><img class="csLogo" src="/categories/compsci/assets/images/numpyLogo.png" alt="numpy"></a>

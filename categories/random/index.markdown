@@ -6,7 +6,7 @@ layout: home-random
 title: "Random"
 category: Random
 order: 7
-list_title: " "
+list_title: "<p style='font-family:monospace;'>print(random.choice(myLife))</p>"
 ---
 <link rel='stylesheet' href='/assets/xkcd-embed/xkcd-embedder.css'/>
 <div class='xkcd-embed shadow' data-id='random' style="height=200px;"></div>

@@ -11,7 +11,7 @@ category: Robotics
 #### &nbsp;&nbsp;&nbsp;&nbsp; Despite these questionable techniques, our team still made it to the San Diego Regionals where we were the Winning Alliance, missing out on the Super Qualifier by only one place.
 
 <img src="/categories/robotics/assets/postImages/vvTeamPicture.jpeg">
-#### [From left to right: Joshua You, Me, Jimmy Muren. Heidi Lau, Emily Tianshi]
+#### From left to right: Joshua You, Me, Jimmy Muren. Heidi Lau, Emily Tianshi
 
 <img src="/categories/robotics/assets/postImages/vvPrototype.jpeg">
-#### [An early prototype of our robot consisiting of old carboard boxes and Home Depot paint sticks]
+#### An early prototype of our robot consisiting of old carboard boxes and Home Depot paint sticks

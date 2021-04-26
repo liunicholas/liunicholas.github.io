@@ -39,6 +39,8 @@ linkedin_username: nicholasxliu
 author: Nicholas Liu
 # copyright: "non existent"
 
+future: true
+
 # Build settings
 #removed minima theme, now a regular theme
 # theme: minima

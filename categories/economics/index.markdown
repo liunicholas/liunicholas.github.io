@@ -6,7 +6,7 @@ layout: home-economics
 title: "Economics"
 category: Economics
 order: 4
-list_title: "Competitions"
+list_title: "Competitions and More"
 ---
 <div style="margin-bottom: 35%;">
   <div class="ocontainer w3-quarter shadow">
