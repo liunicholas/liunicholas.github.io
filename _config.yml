@@ -18,28 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Comments Not Required
-title-logo: /assets/images/title-logo.png
-title-logo2: /assets/images/title-logo2.png
-
-email: nicholasliu2015@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Thank you for visiting my site! This is still very much a work in
-  progress, but I hope you enjoy learning random things about me :)
+title: Andrew Steak
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://liunicholas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://liunicholas.github.io/steak/homepage" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:title/
-
-instagram_username: bickolas.liu
-github_username:  liunicholas
-facebook_username: bickolasliu
-linkedin_username: nicholasxliu
-
-author: Nicholas Liu
-# copyright: "non existent"
-
-future: true
 
 # Build settings
 #removed minima theme, now a regular theme
